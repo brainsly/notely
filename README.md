@@ -1,2 +1,2 @@
 # notely
-Note Friend-Ly
+Note Friendly
